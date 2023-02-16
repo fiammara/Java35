@@ -1,3 +1,5 @@
+package basics;
+
 import com.sun.tools.javac.Main;
 
 public class HelloWorld {
