@@ -9,9 +9,7 @@ public class HW4 {
         int number1= sc.nextInt();
         int number2= sc.nextInt();
 
-        System.out.println(number1>0 && number2>0||number1<0 && number2<0);
-
-
+        System.out.println(number1>0 && number2>0 || number1<0 && number2<0);
 
 
     }
